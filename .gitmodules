@@ -4,3 +4,6 @@
 [submodule "Vision"]
 	path = Vision
 	url = https://github.com/Gio200023/lego_recognizer_yolov5
+[submodule "Pcl_Rotation"]
+	path = Pcl_Rotation
+	url = https://github.com/EdoardoCisco/Pcl_Rotation.git
