@@ -16,7 +16,7 @@
 Repository for Fundamental_Of_Robotics course at the university of Trento.
 
 Team members:
-Edoardo Cisco
-Federico Carbone
-Giovanni Lunardi
-Mattia dalla Costa
+Edoardo Cisco <br>
+Federico Carbone <br>
+Giovanni Lunardi <br>
+Mattia dalla Costa <br>
