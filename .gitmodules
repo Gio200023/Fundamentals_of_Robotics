@@ -7,3 +7,6 @@
 [submodule "Pcl_Rotation"]
 	path = Pcl_Rotation
 	url = https://github.com/EdoardoCisco/Pcl_Rotation.git
+[submodule "ur5_gazebo"]
+	path = ur5_gazebo
+	url = https://github.com/Gio200023/ur5_gazebo
